@@ -104,7 +104,19 @@ footer p{color:#ff847c;}
             <h1>RICHTERKATZE STUDIOS</h1>
             <a class="btn" href="">Saiba mais</a>
         </section>
-        
+        <section class="jogos">
+            <h3>
+                Conheça nossos jogos
+            </h3>
+            <p>feitos com muito carinho</p>
+            <hr/>
+            <ul class="grid">
+                <li class="small "style={{backgroundImage: `url(${'https://i.imgur.com/rV3bnlr.png'})`}} ></li>
+                <li class="large "style={{backgroundImage: `url(${'https://i.imgur.com/VzKC60Q.png'})`}} ></li>
+                <li class="large "style={{backgroundImage: `url(${'https://i.imgur.com/sB2iV08.png'})`}} ></li>
+                <li class="small "style={{backgroundImage: `url(${'https://i.imgur.com/yACfnme.png'})`}} ></li>
+            </ul>
+        </section>
         <footer>
             <ul>
                 <li><a href="https://www.facebook.com/RHAYNER.R.SOUZA/" target="_blank"><i class="fab fa-facebook"></i></a></li>
