@@ -39,7 +39,7 @@ header li:last-child{margin-right:0 ;}
 }
 
 /*HERO*/
-.hero{background-image: url(pages\img\hero.png);background-size: cover;background-color:#2d304b; min-height: 85vh;color: #fff;display: flex;justify-content: center;align-items: center;
+.hero{background-image: url(https://i.pinimg.com/originals/de/f6/96/def69643889ee29e232637646e839064.jpg);background-size: cover;background-color:#2d304b; min-height: 85vh;color: #fff;display: flex;justify-content: center;align-items: center;
 flex-direction: column;text-align: center;}
 .hero h1{font-size: 3.2rem;margin-bottom: 15px;}
 .hero h3{font-size: 2rem;margin-bottom: 15px;}
