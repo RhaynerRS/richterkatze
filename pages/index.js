@@ -6,6 +6,7 @@ function Home(){
             <meta charset="UTF-8"/>
             <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            <link rel="icon" type="imagem/png" href="https://i.imgur.com/iCe4xZP.png" />
             <title>Richterkatze Studios</title>
             <script src="https://kit.fontawesome.com/82464d366f.js" crossorigin="anonymous"></script>
             <link rel="preconnect" href="https://fonts.gstatic.com"/>
@@ -102,6 +103,19 @@ footer p{color:#ff847c;}
         <section class="hero">
             <h1>RICHTERKATZE STUDIOS</h1>
             <a class="btn" href="">Saiba mais</a>
+        </section>
+         <section class="jogos">
+            <h3>
+                Conheça nossos jogos
+            </h3>
+            <p>feitos com muito carinho</p>
+            <hr/>
+            <ul class="grid">
+                <li class="small" style="background-image: url('https://i.imgur.com/rV3bnlr.png')"></li>
+                <li class="large" style="background-image: url('https://i.imgur.com/VzKC60Q.png')"></li>
+                <li class="large" style="background-image: url('https://i.imgur.com/sB2iV08.png')"></li>
+                <li class="small" style="background-image: url('https://i.imgur.com/yACfnme.png')"></li>
+            </ul>
         </section>
         <footer>
             <ul>
