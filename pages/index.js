@@ -90,7 +90,7 @@ footer p{color:#ff847c;}
         </head>
         <body>
         <header>
-            <a href="#"><img  url(https://imgur.com/o4y8CZl) alt="Site flex box"/></a>
+            <a href="#"></a>
             <nav>
                 <li><a href="">Home</a></li>
                 <li><a href="">Sobre</a></li>
