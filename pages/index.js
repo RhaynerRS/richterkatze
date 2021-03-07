@@ -39,7 +39,7 @@ header li:last-child{margin-right:0 ;}
 }
 
 /*HERO*/
-.hero{background-image: url(https://i.pinimg.com/originals/de/f6/96/def69643889ee29e232637646e839064.jpg);background-size: cover;background-color:#2d304b; min-height: 85vh;color: #fff;display: flex;justify-content: center;align-items: center;
+.hero{background-image: url(https://imgur.com/VzKC60Q);background-size: cover;background-color:#2d304b; min-height: 85vh;color: #fff;display: flex;justify-content: center;align-items: center;
 flex-direction: column;text-align: center;}
 .hero h1{font-size: 3.2rem;margin-bottom: 15px;}
 .hero h3{font-size: 2rem;margin-bottom: 15px;}
@@ -90,7 +90,7 @@ footer p{color:#ff847c;}
         </head>
         <body>
         <header>
-            <a href="#"><img  src="C:\Users\rhayn\richterkatze\pages\img\logo.png" alt="Site flex box"/></a>
+            <a href="#"><img  url(https://imgur.com/o4y8CZl) alt="Site flex box"/></a>
             <nav>
                 <li><a href="">Home</a></li>
                 <li><a href="">Sobre</a></li>
