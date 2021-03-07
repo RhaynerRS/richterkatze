@@ -90,7 +90,7 @@ footer p{color:#ff847c;}
         </head>
         <body>
         <header>
-            <a href="#"></a>
+            <a href="https://imgur.com/o4y8CZl"><img src="https://i.imgur.com/o4y8CZl.png" title="source: imgur.com" /></a>
             <nav>
                 <li><a href="">Home</a></li>
                 <li><a href="">Sobre</a></li>
