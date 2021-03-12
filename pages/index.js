@@ -10,6 +10,7 @@ function Home(){
             <script src="https://kit.fontawesome.com/82464d366f.js" crossorigin="anonymous"></script>
             <link rel="preconnect" href="https://fonts.gstatic.com"/>
             <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet"/>
+            <script data-ad-client="ca-pub-5671962041598054" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
             <style >{`*{
     margin: 0;
     padding: 0;
